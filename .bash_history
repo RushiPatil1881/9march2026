@@ -390,3 +390,77 @@ jenkins- -version
 jenkins --version
 systemctl start jenkins
 systemctl status jenkins
+ll
+vi index.js 
+git add .
+git commit -m "234"
+git push origin master
+df -h
+ll
+rm test1 test2 test3 package.json index.js demo1
+ll
+rm Dockerfile 
+ll
+rm docker-compose.yaml -y
+ll
+rm -rf docker-compose.yaml 
+ll
+vi index.js
+vi Dockerfile
+git init
+ll
+sudp yum install npm
+sudo yum install npm
+sudo yum install npm -y
+ll
+npm init -y
+ll
+rm -rf requirements.txt 
+ll
+rm -rf html 
+ll
+vi Jenkinsfile
+git add .
+git commit -m "added jenkins pipeline"
+git push
+got status
+git status
+ll
+git add Jenkinsfile 
+git commit -m "added jenkins pipeline" Jenkinsfile 
+git push origin master
+git remote -v
+git remote add origin https://github.com/RushiPatil1881/9march2026.git
+git remote set-url https://github.com/RushiPatil1881/9march2026.git
+git remote -v
+git remote set-url origin https://github.com/RushiPatil1881/9march2026.git
+git remote -v
+git push origin master
+ll
+vi index.js 
+git add .
+git commit -m "123" 
+git push origin master
+docker images
+docker ps -A
+docker ps -a
+cd /tmp
+ll
+rm -rf hsperfdata_jenkins/ hsperfdata_root/ jetty-0_0_0_0-8080-war-_-any-10098714139902959725/ 
+ll
+rm -rf ./*
+ll
+sudo su -
+df -h
+lsblk
+df -h
+sudo mkfs -t xfs /dev/sdb
+sudo mkdir /mnt
+sudo mkdir /data
+sudo mount /dev/sdb /data
+df -h
+sudo mount /dev/sdb /mnt
+df -h
+sudo mount /dev/sdb /
+df -h
+clear
