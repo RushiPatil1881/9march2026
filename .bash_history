@@ -464,3 +464,5 @@ df -h
 sudo mount /dev/sdb /
 df -h
 clear
+df -h
+systemctl start jenkins

@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1773008739,,"wq"
+|2,0,1773082865,,"wq"
 :%d
 |2,0,1772968345,,"%d"
 :q!
@@ -87,35 +87,55 @@
 
 # File marks:
 '0  4  23  ~/index.js
-|4,48,4,23,1773008739,"~/index.js"
-'1  4  20  ~/index.js
-|4,49,4,20,1773008224,"~/index.js"
-'2  4  36  ~/index.js
-|4,50,4,36,1773008074,"~/index.js"
-'3  4  36  ~/index.js
-|4,51,4,36,1773008074,"~/index.js"
-'4  4  27  ~/index.js
-|4,52,4,27,1773006657,"~/index.js"
-'5  4  27  ~/index.js
-|4,53,4,27,1773006657,"~/index.js"
-'6  4  27  ~/index.js
-|4,54,4,27,1773006657,"~/index.js"
-'7  4  27  ~/index.js
-|4,55,4,27,1773006657,"~/index.js"
-'8  4  24  ~/index.js
-|4,56,4,24,1773006171,"~/index.js"
-'9  4  24  ~/index.js
-|4,57,4,24,1773006171,"~/index.js"
+|4,48,4,23,1773082865,"~/index.js"
+'1  4  36  /etc/fstab
+|4,49,4,36,1773082708,"/etc/fstab"
+'2  4  23  ~/index.js
+|4,50,4,23,1773008739,"~/index.js"
+'3  4  20  ~/index.js
+|4,51,4,20,1773008224,"~/index.js"
+'4  4  20  ~/index.js
+|4,52,4,20,1773008224,"~/index.js"
+'5  4  36  ~/index.js
+|4,53,4,36,1773008074,"~/index.js"
+'6  4  36  ~/index.js
+|4,54,4,36,1773008074,"~/index.js"
+'7  4  36  ~/index.js
+|4,55,4,36,1773008074,"~/index.js"
+'8  4  36  ~/index.js
+|4,56,4,36,1773008074,"~/index.js"
+'9  4  27  ~/index.js
+|4,57,4,27,1773006657,"~/index.js"
 
 # Jumplist (newest first):
+-'  4  23  ~/index.js
+|4,39,4,23,1773082865,"~/index.js"
+-'  4  36  /etc/fstab
+|4,39,4,36,1773082708,"/etc/fstab"
+-'  4  36  /etc/fstab
+|4,39,4,36,1773082708,"/etc/fstab"
+-'  1  0  /etc/fstab
+|4,39,1,0,1773082685,"/etc/fstab"
+-'  1  0  /etc/fstab
+|4,39,1,0,1773082685,"/etc/fstab"
+-'  4  23  ~/index.js
+|4,39,4,23,1773008739,"~/index.js"
 -'  4  23  ~/index.js
 |4,39,4,23,1773008739,"~/index.js"
 -'  4  20  ~/index.js
 |4,39,4,20,1773008224,"~/index.js"
+-'  4  20  ~/index.js
+|4,39,4,20,1773008224,"~/index.js"
+-'  4  36  ~/index.js
+|4,39,4,36,1773008074,"~/index.js"
 -'  4  36  ~/index.js
 |4,39,4,36,1773008074,"~/index.js"
 -'  4  27  ~/index.js
 |4,39,4,27,1773006657,"~/index.js"
+-'  4  27  ~/index.js
+|4,39,4,27,1773006657,"~/index.js"
+-'  4  24  ~/index.js
+|4,39,4,24,1773006171,"~/index.js"
 -'  4  24  ~/index.js
 |4,39,4,24,1773006171,"~/index.js"
 -'  6  15  ~/index.js
@@ -128,6 +148,18 @@
 |4,39,6,15,1773006164,"~/index.js"
 -'  6  15  ~/index.js
 |4,39,6,15,1773006164,"~/index.js"
+-'  6  15  ~/index.js
+|4,39,6,15,1773006164,"~/index.js"
+-'  6  15  ~/index.js
+|4,39,6,15,1773006164,"~/index.js"
+-'  6  15  ~/index.js
+|4,39,6,15,1773006164,"~/index.js"
+-'  6  15  ~/index.js
+|4,39,6,15,1773006164,"~/index.js"
+-'  6  15  ~/index.js
+|4,39,6,15,1773006164,"~/index.js"
+-'  6  15  ~/index.js
+|4,39,6,15,1773006164,"~/index.js"
 -'  28  0  ~/Jenkinsfile
 |4,39,28,0,1773005390,"~/Jenkinsfile"
 -'  28  0  ~/Jenkinsfile
@@ -192,133 +224,108 @@
 |4,39,28,0,1773005390,"~/Jenkinsfile"
 -'  28  0  ~/Jenkinsfile
 |4,39,28,0,1773005390,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1773005359,"~/Jenkinsfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
--'  13  22  ~/Dockerfile
-|4,39,13,22,1773004992,"~/Dockerfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
+-'  28  0  ~/Jenkinsfile
+|4,39,28,0,1773005390,"~/Jenkinsfile"
 
 # History of marks within files (newest to oldest):
 
 > ~/index.js
-	*	1773008738	0
+	*	1773082864	0
 	"	4	23
 	^	4	24
 	.	4	23
 	+	7	21
 	+	6	15
 	+	4	23
+
+> /etc/fstab
+	*	1773082706	0
+	"	4	36
+	^	4	37
+	.	4	36
+	+	4	36
 
 > ~/Jenkinsfile
 	*	1773005389	0
